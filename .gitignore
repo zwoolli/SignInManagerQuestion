@@ -1,0 +1,8 @@
+bin
+obj
+.vscode
+node_modules
+wwwroot
+appsettings*
+package-lock.json
+src/Web/Properties
